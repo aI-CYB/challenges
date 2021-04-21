@@ -1,0 +1,81 @@
+.head {
+  font-size: 30px;
+  font-family: sans-serif;
+}
+
+p {
+  font-size: 24px;
+  font-family: sans-serif;
+  text-align: right;
+}
+
+.relative1 {
+  width: 120px;
+  height: 120px;
+  border-style: solid;
+  border-color: red;
+  background-color: red;
+  position: relative;
+  top: 120px;
+  left: 600px;
+}
+
+.relative2 {
+  width: 120px;
+  height: 120px;
+  border-style: solid;
+  border-color: blue;
+  background-color: blue;
+  position: relative;
+  bottom: 5px;
+  left: 340px;
+}
+
+.relative3 {
+  width: 120px;
+  height: 120px;
+  border-style: solid;
+  border-color: green;
+  background-color: green;
+  position: relative;
+  bottom: 130px;
+  left: 475px;
+}
+
+h3 {
+  font-size: 20px;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.absolute1 {
+  width: 120px;
+  height: 120px;
+  border-style: solid;
+  border-color: red;
+  background-color: red;
+  position: absolute;
+  top: 920px;
+  left: 850px;
+}
+
+.absolute2 {
+  width: 120px;
+  height: 120px;
+  border-style: solid;
+  border-color: blue;
+  background-color: blue;
+  position: absolute;
+  left: 725px;
+  top: 795px;
+}
+
+.absolute3 {
+  width: 120px;
+  height: 120px;
+  border-style: solid;
+  border-color: green;
+  background-color: green;
+  position: absolute;
+  left: 600px;
+}
